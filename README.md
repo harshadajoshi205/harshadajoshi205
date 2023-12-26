@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshada Joshi</h1>
 <h3 align="center">I am passionate Data Analytics and Data Science from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/harshadajoshi205/harshadajoshi205/assets/149192106/410d0b8c-a7de-4acc-8ea1-9833542f96bf">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadajoshi205&label=Profile%20views&color=0e75b6&style=flat" alt="harshadajoshi205" /> </p>
 
